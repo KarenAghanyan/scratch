@@ -1,10 +1,10 @@
 {
-  "name": "glowy",
-  "version": "8.0.0",
+  "name": "scratch",
+  "version": "1.0.0",
   "description": "NestJS, Typescript, Postgres, TypeORM",
   "author": "Karen Aghanyan <karenaghanyan93@gmail.com>",
   "private": true,
-  "license": "",
+  "license": "MIT",
   "scripts": {
     "build:prod": "tsc -p tsconfig.build.json",
     "postbuild:prod": "copyfiles --up 1 src/**/*.json dist",
