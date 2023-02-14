@@ -1,4 +1,4 @@
-# glowy-backend
+# Project from a Scratch
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/webshop8/glowy-backend.git
+git remote add origin https://github.com/KarenAghanyan/scratch.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/webshop8/glowy-backend/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/KarenAghanyan/-/settings/integrations)
 
 ## Collaborate with your team
 
